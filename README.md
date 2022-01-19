@@ -5,7 +5,7 @@
 
 + [Простыми словами о «фронтенде» и «бэкенде»](https://tproger.ru/translations/frontend-backend-interaction/)
 
-## 2. What is
+<!-- ## 2. What is -->
 
 + [What is HTML](https://skillbox.ru/media/code/chto_takoe_html/)
 + [What is CSS](https://medianation.ru/blog/issledovaniya/chto-takoe-css-prostymi-slovami/)
