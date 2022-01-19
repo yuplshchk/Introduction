@@ -7,5 +7,5 @@
 ## 2. What is
 
 + [What is HTML](https://skillbox.ru/media/code/chto_takoe_html/)
-+ [What is CSS](http://www.99lime.com/_bak/topics/you-only-need-10-tags/)
-+ [What is JS](https://developer.mozilla.org/ru/docs/Web/HTML/Attributes)
++ [What is CSS](https://medianation.ru/blog/issledovaniya/chto-takoe-css-prostymi-slovami/)
++ [What is JS](https://developer.mozilla.org/ru/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
