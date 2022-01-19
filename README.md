@@ -3,7 +3,7 @@
 ![alt text](https://media.giphy.com/media/F1ZR9NJoNMmLWynn2M/giphy.gif)
 ## 1. How Frontend works
 
-+ [Простыми словами о «фронтенде» и «бэкенде»](https://tproger.ru/translations/frontend-backend-interaction/)
++ [Простыми словами о «фронтенде» и «бэкенде»](https://timeweb.com/ru/community/articles/frontend-i-backend-razlichiya-osobennosti-i-trebovaniya-k-specialistam)
 
 <!-- ## 2. What is -->
 
