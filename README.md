@@ -13,5 +13,5 @@
 
 ## 2. General
 
-+ [General](http://webmasters.teamdev.com/#personal)
++ [Пособие для тех, кому надо верстать.](http://webmasters.teamdev.com)
 + [Roadmap](https://andreasbm.github.io/web-skills/)
